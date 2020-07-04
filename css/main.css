@@ -1,0 +1,19 @@
+h1{
+    text-align:center;
+    color:black;
+    margin-bottom:20px;
+}
+.container{
+    background:orange;
+    color: white;
+    padding: 20px;
+
+}
+Input{
+    width:50%;
+    padding:5px;
+    margin-bottom:15px;
+}
+Button{
+    color:orange;
+ }
